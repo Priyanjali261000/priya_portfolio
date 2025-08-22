@@ -1,0 +1,57 @@
+body{
+    background-color:BLACK;
+    color: #FFF;
+}
+
+.edu{
+width: 100%;
+
+}
+header
+{
+    color: rgb(51, 181, 233);
+
+   padding: 1%; 
+  
+}
+.a
+{
+    font-size:medium;
+}
+.b
+{
+    
+    color: rgb(51, 181, 233);
+    padding: 2%;
+    font-size:large;
+}
+.about{
+   color: rgb(51, 181, 233);
+    padding: 1%;
+}
+.hireme
+{
+   
+   color:white;
+    padding: 2%;
+}
+.skills
+{
+   
+   color: rgb(51, 181, 233);
+  padding: 2%;
+}
+.personal
+{
+    
+    color: rgb(51, 181, 233);
+    padding: 2%;
+}
+.education
+{
+    
+    color: rgb(51, 181, 233);
+}
+.b nav a {
+    color: rgb(51, 181, 233);
+}
